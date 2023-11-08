@@ -1,3 +1,4 @@
+![Language](https://img.shields.io/badge/Unity3D-2021.3.15f1-brightgreen)  
 此為透過Unity3D與C#進行實做，此系統主要透過裸視3D進行呈現，使用者可以透過橫立式顯示器的方式來做互動。
 而使用者則可根據要練習的內容選擇封閉式對話或是開放式對話。
 
